@@ -1,0 +1,1 @@
+API for using the Danish OCES certificate (X509) for encrypting and signing.
